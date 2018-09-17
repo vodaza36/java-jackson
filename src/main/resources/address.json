@@ -1,6 +1,6 @@
 {
-  "streetName": "Musterstraße",
-  "streetNumber": "42",
+  "street": "Musterstraße",
+  "houseno": "42",
   "city": "Musterstadt",
   "zip": 4711
 }
